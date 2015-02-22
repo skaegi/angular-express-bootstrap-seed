@@ -1,6 +1,6 @@
 # Angular Express Bootstrap Seed
 
-[![Deploy to Bluemix](images/deploy-button.png)](https://bluemix.net/deploy?repository=https://github.com/skaegi/angular-express-bootstrap-seed.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/skaegi/angular-express-bootstrap-seed.git)
 
 
 Forked from [btford/angular-express-seed](https://github.com/btford/angular-express-seed) and spiced with [Twitter Bootstrap](https://github.com/twitter/bootstrap). jQuery added for convenience.
